@@ -98,10 +98,10 @@
         </p>
 
         <ul>
-          <li>🔹 Selected indoor, air-purifying plants that thrive in their office light conditions</li>
-          <li>🔹 Installed elegant, space-matching eco-friendly planters</li>
-          <li>🔹 Executed a hassle-free, clean installation with zero disruption</li>
-          <li>🔹 Set up a Weekly plant care plan (watering, pruning, replacements, etc.)</li>
+          <li>Selected indoor, air-purifying plants that thrive in their office light conditions</li>
+          <li>Installed elegant, space-matching eco-friendly planters</li>
+          <li>Executed a hassle-free, clean installation with zero disruption</li>
+          <li>Set up a Weekly plant care plan (watering, pruning, replacements, etc.)</li>
         </ul>
 
         <h2>The Impact: A Fresh and Productive Environment</h2>
