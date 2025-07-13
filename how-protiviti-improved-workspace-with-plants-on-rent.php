@@ -15,15 +15,14 @@
     <meta property="og:url" content="https://www.thenurserys.com/how-protiviti-improved-workspace-with-plants-on-rent" />
     <meta property="og:title" content="how  protiviti india member private limited enhanced their workspace using The Nurserys' plants on rent service. Hassle-free setup, air-purifying greenery, and regular maintenance." />
     <meta property="og:description" content="how  protiviti india member private limited enhanced their workspace using The Nurserys' plants on rent service. Hassle-free setup, air-purifying greenery, and regular maintenance." />
-    <meta property="og:image" content="img/blogs/feather_image/protiviti_india.webp" />
+    <meta property="og:image" content="<?php echo (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]/img/blogs/feather_image/protiviti_india.webp"; ?>" />
 
     <!-- X (Twitter) -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="https://www.thenurserys.com/how-protiviti-improved-workspace-with-plants-on-rent" />
     <meta property="twitter:title" content="how  protiviti india member private limited enhanced their workspace using The Nurserys' plants on rent service. Hassle-free setup, air-purifying greenery, and regular maintenance." />
     <meta property="twitter:description" content="how  protiviti india member private limited enhanced their workspace using The Nurserys' plants on rent service. Hassle-free setup, air-purifying greenery, and regular maintenance." />
-    <meta property="twitter:image" content="img/blogs/feather_image/protiviti_india.webp" />
-
+    <meta property="twitter:image" content="<?php echo (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]/img/blogs/feather_image/protiviti_india.webp"; ?>" />
 
     <?php include('./include/tags.php');?>
 
