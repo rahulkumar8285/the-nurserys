@@ -11,7 +11,8 @@
             </div>
             <div class="card-body">
                <span class="badge" style="background-color: #0F4229;color:#fff"> Plants for rent</span> <small class="text-muted">10 July 2025</small>
-               <h5 style="font-size: 20px;" class="card-title mt-2" style="font-size: 20px;">How <b>protiviti india member private limited Improved</b> Their Workspace with Our Plants on Rent Service</h5>
+               <h5 style="font-size: 20px;" class="card-title mt-2" style="font-size: 20px;">
+                How protiviti india member private limited Improved Their Workspace with Our Plants on Rent Service</h5>
             </div>
          </div>
       </a>
