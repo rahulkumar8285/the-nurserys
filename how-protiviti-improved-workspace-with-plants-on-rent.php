@@ -5,9 +5,28 @@
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport"> 
     <!-- Primary Meta Tags -->
+
     <title>how  protiviti india member private limited enhanced their workspace using The Nurserys' plants on rent service. Hassle-free setup, air-purifying greenery, and regular maintenance.</title>
-    <?php include('./include/tags.php');?>
+    <meta name="title" content="how  protiviti india member private limited enhanced their workspace using The Nurserys' plants on rent service. Hassle-free setup, air-purifying greenery, and regular maintenance." />
     <meta name="description" content="how  protiviti india member private limited enhanced their workspace using The Nurserys' plants on rent service. Hassle-free setup, air-purifying greenery, and regular maintenance." />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.thenurserys.com/how-protiviti-improved-workspace-with-plants-on-rent" />
+    <meta property="og:title" content="how  protiviti india member private limited enhanced their workspace using The Nurserys' plants on rent service. Hassle-free setup, air-purifying greenery, and regular maintenance." />
+    <meta property="og:description" content="how  protiviti india member private limited enhanced their workspace using The Nurserys' plants on rent service. Hassle-free setup, air-purifying greenery, and regular maintenance." />
+    <meta property="og:image" content="img/blogs/feather_image/protiviti_india.webp" />
+
+    <!-- X (Twitter) -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://www.thenurserys.com/how-protiviti-improved-workspace-with-plants-on-rent" />
+    <meta property="twitter:title" content="how  protiviti india member private limited enhanced their workspace using The Nurserys' plants on rent service. Hassle-free setup, air-purifying greenery, and regular maintenance." />
+    <meta property="twitter:description" content="how  protiviti india member private limited enhanced their workspace using The Nurserys' plants on rent service. Hassle-free setup, air-purifying greenery, and regular maintenance." />
+    <meta property="twitter:image" content="img/blogs/feather_image/protiviti_india.webp" />
+
+
+    <?php include('./include/tags.php');?>
+
 
 
     <!-- Event snippet for Website lead conversion page -->
@@ -64,30 +83,7 @@
         </ol>
 
         
-        <div class="blogPage">
-            <h3 class="mt-5">Latest Blog</h3>
-            <a href="/blogs-and-works" class="blogBtn">View all</a>    
-        </div>
-        
-        <div class="row">
-          <div class="col-md-4 blogHoverEffect">
-            <div class="card blog-card border-0">
-              <img src="https://cdn.pixabay.com/photo/2024/03/08/07/31/ai-generated-8620060_1280.jpg" class="card-img-top" alt="Blog 1">
-              <div class="card-body">
-                <small class="text-muted">30 Jan 2024 • 10 mins read</small>
-                <h6 class="card-title mt-2">Unveiling the Secrets Beyond the Tourist Trails</h6>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 blogHoverEffect">
-            <div class="card blog-card border-0">
-              <img src="https://cdn.pixabay.com/photo/2024/03/08/07/31/interior-8620061_1280.jpg" class="card-img-top" alt="Blog 2">
-              <div class="card-body">
-                <small class="text-muted">5 Feb 2024 • 8 mins read</small>
-                <h6 class="card-title mt-2">How to Style Your Furniture Clean</h6>
-              </div>
-            </div>
-          </div>
+       <?php include('./include/blogsFooter.php')  ?>
 
         </div>
       </div>
