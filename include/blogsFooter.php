@@ -13,12 +13,4 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4 blogHoverEffect">
-            <div class="card blog-card border-0">
-              <img src="https://cdn.pixabay.com/photo/2024/03/08/07/31/interior-8620061_1280.jpg" class="card-img-top" alt="Blog 2">
-              <div class="card-body">
-                <small class="text-muted">5 Feb 2024 • 8 mins read</small>
-                <h6 class="card-title mt-2">How to Style Your Furniture Clean</h6>
-              </div>
-            </div>
-          </div>
+         
